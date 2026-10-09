@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/ C#2/week1/day4/d4/bin/Debug/net10.0/d4
+/Users/macbook/Desktop/ C#2/week1/day4/d4/bin/Debug/net10.0/d4.deps.json
+/Users/macbook/Desktop/ C#2/week1/day4/d4/bin/Debug/net10.0/d4.runtimeconfig.json
+/Users/macbook/Desktop/ C#2/week1/day4/d4/bin/Debug/net10.0/d4.dll
+/Users/macbook/Desktop/ C#2/week1/day4/d4/bin/Debug/net10.0/d4.pdb
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.AssemblyInfo.cs
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.dll
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/refint/d4.dll
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.pdb
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/d4.genruntimeconfig.cache
+/Users/macbook/Desktop/ C#2/week1/day4/d4/obj/Debug/net10.0/ref/d4.dll
